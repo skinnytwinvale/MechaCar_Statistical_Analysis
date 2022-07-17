@@ -16,3 +16,41 @@ This new assignment consists of three technical analysis deliverables and a prop
 - Deliverable 2: Summary Statistics on Suspension Coils
 - Deliverable 3: T-Test on Suspension Coils
 - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
+## Deliverable 1
+The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using your knowledge of R, you’ll design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. Then, you’ll write a short interpretation of the multiple linear regression results in the README.md.
+
+### Linear Regression to Predict MPG
+
+## Deliverable 2
+The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using your knowledge of R, you’ll create a summary statistics table to show:
+
+The suspension coil’s PSI continuous variable across all manufacturing lots
+The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+Then, in the README.md, you’ll briefly detail and interpret the suspension coil summary statistics.
+
+### Summary Statistics on Suspension Coils
+
+
+## Deliverable 3
+Using your knowledge of R, perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
+### T-Tests on Suspension Coils
+
+## Deliverable 4
+Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
+Follow the instructions below to complete Deliverable 4.
+
+In your README, create a subheading ## Study Design: MechaCar vs Competition.
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
+
+### tudy Design: MechaCar vs Competition
+
+
+
