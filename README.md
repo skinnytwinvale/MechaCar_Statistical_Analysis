@@ -62,11 +62,12 @@ What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
 
+### tudy Design: MechaCar vs Competition
+When evaluating a car there are many factors taken into consideration when purchasing. But now its a little different where ridesharing is more popular. Ridesharing is becoming more common, convenient, and more economical. People are now looking for vehicles that is an economical means to regularly transport themselves and their items on a reliable, regular basis.
+
 #### Test
 To make the test easier and more reliable we would need to narrow it down to evaluate MechaCar's carrying capacity, in cubic inches. We can compare it to major competitors
 
-### tudy Design: MechaCar vs Competition
-When evaluating a car there are many factors taken into consideration when purchasing. But now its a little different where ridesharing is more popular. Ridesharing is becoming more common, convenient, and more economical. People are now looking for vehicles that is an economical means to regularly transport themselves and their items on a reliable, regular basis.
 #### Null & Alternate Hypothesis
 H0: MechaCar prototypes' average carrying capacity is similar to competitor's vehicles in the same vehicle class 
 Ha: MechaCar prototypes' average carrying capacity is statistically above or below that of competitor vehicles.
