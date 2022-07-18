@@ -43,6 +43,11 @@ Then, in the README.md, you’ll briefly detail and interpret the suspension coi
 Using your knowledge of R, perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. 
 
 ### T-Tests on Suspension Coils
+![name-of-you-image](https://github.com/skinnytwinvale/MechaCar_Statistical_Analysis/blob/94e9cd5affbdc37cb24c7dfe29ba5f9c2d04c0c9/Images/Deliverable_3.png)
+
+- The review for the T-test for Lot 1 for the suspension coils shows that they are not different from the population mean, and the p-value isn't low enough for to reject the null hypothesis.
+- The review for the T-test for Lot 2 the suspension coils shows that they are not different from the population mean, and the p-value isn't low enough (0.6072) to reject the null hypothesis.
+- The results of the T-test for Lot 3 the suspension coils shows that they are slightly different from the population mean, and the p-value is just low enough (0.0417) to be able to reject the null hypothesis. This lot may be need to be discarded or need to be reevaluated.
 
 ## Deliverable 4
 Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
@@ -57,7 +62,15 @@ What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
 
+#### Test
+To make the test easier and more reliable we would need to narrow it down to evaluate MechaCar's carrying capacity, in cubic inches. We can compare it to major competitors
+
 ### tudy Design: MechaCar vs Competition
-
-
-
+When evaluating a car there are many factors taken into consideration when purchasing. But now its a little different where ridesharing is more popular. Ridesharing is becoming more common, convenient, and more economical. People are now looking for vehicles that is an economical means to regularly transport themselves and their items on a reliable, regular basis.
+#### Null & Alternate Hypothesis
+H0: MechaCar prototypes' average carrying capacity is similar to competitor's vehicles in the same vehicle class 
+Ha: MechaCar prototypes' average carrying capacity is statistically above or below that of competitor vehicles.
+#### Sample test
+The best type of test used for this data would be the two sample T-tests
+#### Data Needed
+We would need cubic space data from carrying compartments not only from all out major competitors but from all prototypes as well.
