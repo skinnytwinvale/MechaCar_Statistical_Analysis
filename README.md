@@ -35,7 +35,9 @@ The following PSI metrics for each lot: mean, median, variance, and standard dev
 Then, in the README.md, you’ll briefly detail and interpret the suspension coil summary statistics.
 
 ### Summary Statistics on Suspension Coils
-
+![name-of-you-image](https://github.com/skinnytwinvale/MechaCar_Statistical_Analysis/blob/95330a8554f981f55abb98b9096b387a8f46578d/Images/Screen%20Shot%202022-07-17%20at%204.58.25%20PM.png)
+![name-of-you-image](https://github.com/skinnytwinvale/MechaCar_Statistical_Analysis/blob/95330a8554f981f55abb98b9096b387a8f46578d/Images/Screen%20Shot%202022-07-17%20at%204.53.29%20PM.png)
+![name-of-you-image](https://github.com/skinnytwinvale/MechaCar_Statistical_Analysis/blob/95330a8554f981f55abb98b9096b387a8f46578d/Images/Screen%20Shot%202022-07-17%20at%204.53.16%20PM.png)
 
 ## Deliverable 3
 Using your knowledge of R, perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
