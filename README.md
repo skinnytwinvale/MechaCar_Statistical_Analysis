@@ -21,6 +21,11 @@ This new assignment consists of three technical analysis deliverables and a prop
 The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using your knowledge of R, you’ll design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file. Then, you’ll write a short interpretation of the multiple linear regression results in the README.md.
 
 ### Linear Regression to Predict MPG
+- The vehicle length, and vehicle ground clearance are likely to provide non-random amounts of variance to the model. That vehicle length and ground clearance have a big impact on miles per gallon on the MechaCar prototype. 
+- The slope cannot be considered zero. In the picture provided below the P-value is 5.35e-11, it is lower than even an extreme level of significance, and thus the null hypothesis must be rejected.
+- 71% of all mpg predictions will be determined by this model. Because the Linear model has an r-squared value of 0.7149.
+
+![name-of-you-image](https://github.com/skinnytwinvale/MechaCar_Statistical_Analysis/blob/78a04aff7039f11e1f966d864d0e68f602d821b5/Images/Deliverable%201.png)
 
 ## Deliverable 2
 The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using your knowledge of R, you’ll create a summary statistics table to show:
