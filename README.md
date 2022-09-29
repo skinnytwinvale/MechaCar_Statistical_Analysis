@@ -23,7 +23,7 @@ The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCar
 ### Linear Regression to Predict MPG
 - The vehicle length, and vehicle ground clearance are likely to provide non-random amounts of variance to the model. That vehicle length and ground clearance have a big impact on miles per gallon on the MechaCar prototype. 
 - The slope cannot be considered zero. In the picture provided below the P-value is 5.35e-11, it is lower than even an extreme level of significance, and thus the null hypothesis must be rejected.
-- 71% of all mpg predictions will be determined by this model. Because the Linear model has an r-squared value of 0.7149.
+- 71% of all mpg predictions will be determined by this model. Because the Linear model has an r-squared value of 0.7149. 
 
 ![name-of-you-image](https://github.com/skinnytwinvale/MechaCar_Statistical_Analysis/blob/78a04aff7039f11e1f966d864d0e68f602d821b5/Images/Deliverable%201.png)
 
